@@ -5,7 +5,7 @@ int main(){
     // ป้อนชื่อ ป้อนอายุ
     // declare variable
     
-    char name[50];
+    char name[30];
     int age;  // long int มากกว่า 10 ล้านตัวอักษร
 
     printf("Enter your name : ");
